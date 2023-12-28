@@ -1,0 +1,16 @@
+C:\Users\JayC\source\repos\Cube World Trainer C#\Cube World Trainer C#\bin\Debug\Cube World Trainer C#.exe.config
+C:\Users\JayC\source\repos\Cube World Trainer C#\Cube World Trainer C#\bin\Debug\Cube World Trainer C#.exe
+C:\Users\JayC\source\repos\Cube World Trainer C#\Cube World Trainer C#\bin\Debug\Cube World Trainer C#.pdb
+C:\Users\JayC\source\repos\Cube World Trainer C#\Cube World Trainer C#\obj\Debug\Cube World Trainer C#.csproj.AssemblyReference.cache
+C:\Users\JayC\source\repos\Cube World Trainer C#\Cube World Trainer C#\obj\Debug\Cube World Trainer C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\JayC\source\repos\Cube World Trainer C#\Cube World Trainer C#\obj\Debug\Cube_World_Trainer_C_.Properties.Resources.resources
+C:\Users\JayC\source\repos\Cube World Trainer C#\Cube World Trainer C#\obj\Debug\Cube World Trainer C#.csproj.GenerateResource.cache
+C:\Users\JayC\source\repos\Cube World Trainer C#\Cube World Trainer C#\obj\Debug\Cube World Trainer C#.csproj.CoreCompileInputs.cache
+C:\Users\JayC\source\repos\Cube World Trainer C#\Cube World Trainer C#\obj\Debug\Cube World Trainer C#.exe
+C:\Users\JayC\source\repos\Cube World Trainer C#\Cube World Trainer C#\obj\Debug\Cube World Trainer C#.pdb
+C:\Users\JayC\source\repos\Cube World Trainer C#\Cube World Trainer C#\obj\Debug\Cube_World_Trainer_C_.MainWindow.resources
+C:\Users\JayC\source\repos\Cube World Trainer C#\Cube World Trainer C#\bin\Debug\Memory.dll
+C:\Users\JayC\source\repos\Cube World Trainer C#\Cube World Trainer C#\bin\Debug\Memory.xml
+C:\Users\JayC\source\repos\Cube World Trainer C#\Cube World Trainer C#\obj\Debug\Cube World Trainer C#.csproj.CopyComplete
+C:\Users\JayC\source\repos\Cube World Trainer C#\Cube World Trainer C#\obj\Debug\Cube_World_Trainer_C_.Settings.resources
+C:\Users\JayC\source\repos\Cube World Trainer C#\Cube World Trainer C#\obj\Debug\Cube_World_Trainer_C_.ItemEditor.resources
